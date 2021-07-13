@@ -1,1 +1,1 @@
-açıkalma
+python hava durumu
