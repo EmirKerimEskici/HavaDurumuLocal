@@ -1,1 +1,1 @@
-python hava durumu
+modülleri interpreter'dan indirip kurmayı unutmayalım 
