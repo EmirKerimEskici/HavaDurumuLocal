@@ -1,1 +1,1 @@
-modülleri interpreter'dan indirip kurmayı unutmayalım 
+modülleri interpreter'dan indirip kurmayı unutmayınız
